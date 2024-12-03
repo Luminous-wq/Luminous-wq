@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: wenq_mar@163.com
 - ⚡ Fun fact: AI, PyTorch.
 
-## keywords:
+## Keywords:
 ![Github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
