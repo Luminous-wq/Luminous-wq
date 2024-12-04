@@ -1,4 +1,4 @@
-## Hi there 👋 A current M.S.~
+## Hi there 👋 A currently graduate student~
 
 <!--
 **Luminous-wq/Luminous-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
