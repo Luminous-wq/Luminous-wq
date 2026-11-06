@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Social Network Analysis, AI4Database, LLM, and Graph Learning**.
 - 👯 I’m looking to collaborate on research.
-- ⚡ Fun fact: Hoping to create something interesting.
+- ⚡ Hoping to create something interesting.
 - wenq_mar@163.com or qiwen7@stu.ecnu.edu.cn
 
 ## Keywords:
