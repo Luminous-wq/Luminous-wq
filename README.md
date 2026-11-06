@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Luminous-wq)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats1](https://github-stats-extended.vercel.app/api?username=Luminous-wq&show_icons=true&include_all_commits=true&theme=kacho_ga)](https://github-stats-extended.vercel.app/api?username=Luminous-wq&show_icons=true&include_all_commits=true&theme=kacho_ga)
+[![GitHub Stats2](https://github-stats-extended.vercel.app/api/top-langs?username=Luminous-wq&langs_count=4&theme=rose)](https://github-stats-extended.vercel.app/api/top-langs?username=Luminous-wq&langs_count=4&theme=rose)
